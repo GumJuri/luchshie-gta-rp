@@ -1,7 +1,7 @@
 window.AUTO_ARTICLES = [
-  { title: "GTA5RP", description: "Очень высокий онлайн, живые фракции, бизнесы, события и хорошая оптимизация на ПК.", category: "Средняя оценка 5.0", icon: "🏆", url: "#rating" },
-  { title: "Evolve RP", description: "Классическая атмосфера GTA San Andreas RP, стабильный онлайн и баланс без жёсткого доната.", category: "Средняя оценка 4.9", icon: "🎮", url: "#rating" },
-  { title: "Malinovka RP", description: "RP Россия GTA с народной атмосферой, высоким онлайном, машинами и удобным стартом.", category: "Средняя оценка 4.8", icon: "🚗", url: "#rating" },
+  { title: "GTA5RP", description: "Очень высокий онлайн, живые фракции, бизнесы, события и хорошая оптимизация на ПК.", category: "Средняя оценка 5.0", icon: "🏆", url: "https://tywhh.com/g/q10rxle26a3fe056052843269ad76d/?erid=2bL9aMPo2e49hMef4piUr6ZhiU" },
+  { title: "Evolve RP", description: "Классическая атмосфера GTA San Andreas RP, стабильный онлайн и баланс без жёсткого доната.", category: "Средняя оценка 4.9", icon: "🎮", url: "https://trackerad.ru/go/7c0a17f7662c426bf635e4242aaa9b3e365b64d1eb0a0b0b/?tid=git&erid=2VtzqxdzHmM" },
+  { title: "Malinovka RP", description: "RP Россия GTA с народной атмосферой, высоким онлайном, машинами и удобным стартом.", category: "Средняя оценка 4.8", icon: "🚗", url: "https://link2go.ru/go/7c0a17f78528426b8145e4242aaa9b3e365b64d1eb0a0b0b/?tid=git&erid=2Vtzqx85RSq" },
   { title: "Arizona RP", description: "Известный проект GTA San Andreas RP с огромным онлайном и активным форумом.", category: "Средняя оценка 4.7", icon: "🌵", url: "#rating" },
   { title: "Majestic RP", description: "Современная графика, голосовой чат, ивенты и активные ролевые ситуации.", category: "Средняя оценка 4.6", icon: "⭐", url: "#rating" },
   { title: "Radmir RP", description: "Проект для тех, кто любит рп гта россия, машины, заработок и вечерний онлайн.", category: "Средняя оценка 4.5", icon: "🇷🇺", url: "#rating" },
